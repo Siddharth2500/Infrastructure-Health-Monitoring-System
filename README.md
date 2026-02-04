@@ -1,7 +1,7 @@
 ## Project : Infrastructure Health Monitoring System
 -------
 <img width="1790" height="1180" alt="image" src="https://github.com/user-attachments/assets/8bb7cafc-14d1-4903-be8d-70cfee44c0e0" />
-----
+-----
 ### Description
 Comprehensive infrastructure monitoring tool that tracks CPU, memory, disk, network metrics across multiple servers and generates health reports with predictive analytics.
 
