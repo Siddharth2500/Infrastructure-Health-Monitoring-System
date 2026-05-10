@@ -23,7 +23,7 @@ Comprehensive infrastructure monitoring tool that tracks CPU, memory, disk, netw
 ```bash
 pip install psutil matplotlib pandas numpy
 python infra_monitor.py
-```
+``````
 
 ### Usage
 ```python
