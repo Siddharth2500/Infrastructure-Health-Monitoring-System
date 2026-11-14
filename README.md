@@ -39,4 +39,4 @@ monitor.generate_health_report()
 - Anomaly detection charts
 - Predictive failure warnings
 
-------------
+--------------
